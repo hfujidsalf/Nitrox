@@ -289,7 +289,7 @@ namespace NitroxLauncher
                     break;
 
                 case Platform.STEAM:
-                    startInfo.FileName = "steam://run/264710";
+                    startInfo.FileName = "D:\Games\Subnautica\Subnautica.exe";
                     break;
 
                 case Platform.MICROSOFT:
